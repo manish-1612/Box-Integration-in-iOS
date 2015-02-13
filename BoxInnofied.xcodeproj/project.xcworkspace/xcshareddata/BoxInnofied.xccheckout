@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A76D4B50-01F9-4553-8E34-0DF0575010A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BoxInnofied</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A8620A8B04A55DDB4A592FE3C804B1F4DE38D9C3</key>
+		<string>https://github.com/manishatinnofied/BoxInnofied.git</string>
+		<key>AF31D128ADB764CFFCB4E3CF85F0F0900668E6F6</key>
+		<string>https://github.com/box/box-ios-sdk-v2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BoxInnofied.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A8620A8B04A55DDB4A592FE3C804B1F4DE38D9C3</key>
+		<string>../..</string>
+		<key>AF31D128ADB764CFFCB4E3CF85F0F0900668E6F6</key>
+		<string>../..box-ios-sdk-v2/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manishatinnofied/BoxInnofied.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A8620A8B04A55DDB4A592FE3C804B1F4DE38D9C3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF31D128ADB764CFFCB4E3CF85F0F0900668E6F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>box-ios-sdk-v2</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A8620A8B04A55DDB4A592FE3C804B1F4DE38D9C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BoxInnofied</string>
+		</dict>
+	</array>
+</dict>
+</plist>
