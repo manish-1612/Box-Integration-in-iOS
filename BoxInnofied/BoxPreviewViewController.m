@@ -84,7 +84,7 @@
 
         BoxAPIJSONFailureBlock failure = ^(NSURLRequest *request, NSHTTPURLResponse *response, NSError *error, NSDictionary *JSONDictionary)
         {
-            NSLog(@"file create failed with error code: %i", response.statusCode);
+            NSLog(@"file create failed with error code: %li", (long)response.statusCode);
             if (response.statusCode == 409)
             {
                 dispatch_sync(dispatch_get_main_queue(), ^{
